@@ -13,6 +13,8 @@ import {
 
 setValidatorsMessagesToSpanish();
 
+//test comment
+
 const App: React.FunctionComponent = () => {
   return (
     <StylesProvider injectFirst>
